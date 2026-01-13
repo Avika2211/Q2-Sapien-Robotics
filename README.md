@@ -25,5 +25,10 @@ Defect classes:
 <img width="1494" height="1119" alt="Screenshot 2026-01-13 230527" src="https://github.com/user-attachments/assets/ae0a6dc7-265d-408d-9b57-ee7177be986a" />
 
 
+## ANNOTATED IMAGES
+![pcb_image1](https://github.com/user-attachments/assets/2d5537cc-1614-4996-8297-50256d91d7eb)
+![pcb_image2](https://github.com/user-attachments/assets/c174e834-d7bc-484b-bdc7-afdac76cd24f)
+
+
 
 
