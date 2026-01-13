@@ -22,6 +22,8 @@ Defect classes:
 - 
 ## MODEL SUMMARY 
 
-<img width="1322" height="450" alt="image" src="https://github.com/user-attachments/assets/526efda1-4787-4871-83da-5180590fe3f1" />
+<img width="1494" height="1119" alt="Screenshot 2026-01-13 230527" src="https://github.com/user-attachments/assets/ae0a6dc7-265d-408d-9b57-ee7177be986a" />
+
+
 
 
