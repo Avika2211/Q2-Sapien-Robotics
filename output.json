@@ -1,0 +1,9 @@
+[
+  {
+    "defect_type": "short",
+    "confidence": 0.94,
+    "bounding_box": [312, 220, 358, 266],
+    "center_pixel": [335, 243],
+    "severity": "Medium"
+  }
+]
