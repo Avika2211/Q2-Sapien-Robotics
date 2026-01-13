@@ -19,14 +19,9 @@ Defect classes:
 - Outputs pixel-level defect center coordinates
 - Estimates defect severity based on defect area
 - Saves structured JSON output and annotated images
+- 
+## MODEL SUMMARY 
 
-## Folder Structure
-pcb-quality-inspection/
-├── data/sample_images/
-├── model/
-├── src/
-├── results/
+<img width="1322" height="450" alt="image" src="https://github.com/user-attachments/assets/526efda1-4787-4871-83da-5180590fe3f1" />
 
-## How to Run
-pip install -r requirements.txt
-python src/inspect.py
+
